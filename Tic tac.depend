@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507361825 source:d:\projects\c++\tic tac\main.cpp
+	<iostream>
+	<string>
+	"graphics.h"
+
